@@ -16,5 +16,11 @@
     "nama": "SCRIPT BUG",
     "harga": "Rp50.000",
     "kategori": "VIA WA / VIA TELE"
+  },
+  {
+    "id": 4,
+    "nama": "Wahid",
+    "harga": "Rp0",
+    "kategori": "People"
   }
 ]
