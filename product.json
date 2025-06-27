@@ -10,5 +10,11 @@
     "nama": "Admin Panel pterodactyl",
     "harga": "Rp10.000",
     "kategori": "Hosting"
+  },
+  {
+    "id": 3,
+    "nama": "SCRIPT BUG",
+    "harga": "Rp50.000",
+    "kategori": "VIA WA / VIA TELE"
   }
 ]
