@@ -28,5 +28,11 @@
     "nama": "SC JUSTIN",
     "harga": "Rp50.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 8,
+    "nama": "SC VAMPIRE",
+    "harga": "Rp80.000",
+    "kategori": "VIA TELE / WA"
   }
 ]
