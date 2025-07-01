@@ -40,5 +40,11 @@
     "nama": "SC PRIMORDIAL CALIX",
     "harga": "Rp15.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 10,
+    "nama": "SC VOID",
+    "harga": "Rp60.000",
+    "kategori": "VIA TELE"
   }
 ]
