@@ -76,5 +76,11 @@
     "nama": "SC REXUS",
     "harga": "Rp45.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 16,
+    "nama": "SC HEFAISTOS HADES",
+    "harga": "Rp50.000",
+    "kategori": "VIA TELE"
   }
 ]
