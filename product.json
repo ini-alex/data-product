@@ -70,5 +70,11 @@
     "nama": "SC FLOIDS INFINITY",
     "harga": "Rp50.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 15,
+    "nama": "SC REXUS",
+    "harga": "Rp45.000",
+    "kategori": "VIA TELE"
   }
 ]
