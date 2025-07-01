@@ -46,5 +46,11 @@
     "nama": "SC VOID",
     "harga": "Rp60.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 11,
+    "nama": "SC X-TRAVAS",
+    "harga": "Rp50.000",
+    "kategori": "VIA TELE"
   }
 ]
