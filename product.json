@@ -52,5 +52,11 @@
     "nama": "SC X-TRAVAS",
     "harga": "Rp50.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 12,
+    "nama": "SC STELLAR",
+    "harga": "Rp40.000",
+    "kategori": "VIA TELE"
   }
 ]
