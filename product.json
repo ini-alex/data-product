@@ -34,5 +34,11 @@
     "nama": "SC VAMPIRE",
     "harga": "Rp80.000",
     "kategori": "VIA TELE / WA"
+  },
+  {
+    "id": 9,
+    "nama": "SC PRIMORDIAL CALIX",
+    "harga": "Rp15.000",
+    "kategori": "VIA TELE"
   }
 ]
