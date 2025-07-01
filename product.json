@@ -64,5 +64,11 @@
     "nama": "SC XVINCENT",
     "harga": "Rp65.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 14,
+    "nama": "SC FLOIDS INFINITY",
+    "harga": "Rp50.000",
+    "kategori": "VIA TELE"
   }
 ]
