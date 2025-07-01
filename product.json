@@ -58,5 +58,11 @@
     "nama": "SC STELLAR",
     "harga": "Rp40.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 13,
+    "nama": "SC XVINCENT",
+    "harga": "Rp65.000",
+    "kategori": "VIA TELE"
   }
 ]
