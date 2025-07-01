@@ -22,5 +22,11 @@
     "nama": "SC JUSTIN",
     "harga": "Rp60.000",
     "kategori": "VIA WHATSAPP"
+  },
+  {
+    "id": 7,
+    "nama": "SC JUSTIN",
+    "harga": "Rp50.000",
+    "kategori": "VIA TELE"
   }
 ]
