@@ -82,5 +82,11 @@
     "nama": "SC HEFAISTOS HADES",
     "harga": "Rp50.000",
     "kategori": "VIA TELE"
+  },
+  {
+    "id": 17,
+    "nama": "SC MEGUMI",
+    "harga": "Rp35.000",
+    "kategori": "VIA WA"
   }
 ]
