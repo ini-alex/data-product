@@ -88,5 +88,11 @@
     "nama": "SC MEGUMI",
     "harga": "Rp35.000",
     "kategori": "VIA WA"
+  },
+  {
+    "id": 18,
+    "nama": "APK CURSED BLOOD",
+    "harga": "Rp100.000",
+    "kategori": "VIA APK"
   }
 ]
