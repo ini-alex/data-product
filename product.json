@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "nama": "Admin Panel pterodactyl",
-    "harga": "Rp10.000",
-    "kategori": "Hosting"
+    "nama": "MURID BANNED",
+    "harga": "Rp30.000",
+    "kategori": "WA"
   },
   {
     "id": 2,
@@ -88,11 +88,5 @@
     "nama": "SC MEGUMI",
     "harga": "Rp35.000",
     "kategori": "VIA WA"
-  },
-  {
-    "id": 18,
-    "nama": "PENEL UNLI",
-    "harga": "Rp5.000",
-    "kategori": "Hosting"
   }
 ]
