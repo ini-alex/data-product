@@ -88,5 +88,11 @@
     "nama": "SC MEGUMI",
     "harga": "Rp35.000",
     "kategori": "VIA WA"
+  },
+  {
+    "id": 18,
+    "nama": "SC THE BLOOD INVINITY",
+    "harga": "Rp40.000",
+    "kategori": "VIA TELE"
   }
 ]
